@@ -134,3 +134,6 @@ a { text-decoration: none;}
     letter-spacing: -0.11px;
     color : #ffffff;
   }
+.footer .reward {
+    background-color: #999 !important;
+}
